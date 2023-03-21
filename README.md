@@ -39,7 +39,7 @@
      + 진진빨강 
 
 ##### 이미지를 넣을때는 이미지의 이름 ( 경로 ) 가 필요함
-![Alt text] cat.JPG
+![Alt text]cat.jpg
 
 
      
