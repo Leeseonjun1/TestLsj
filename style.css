@@ -1,0 +1,30 @@
+h1, p {
+    text-align:center;
+    }
+    p{
+      background-color: skyblue;
+      color:black;
+    }
+    .text1{
+        color:violet;
+    }
+    body{
+          background-color:#CCEEFF;
+    }
+.padding{
+    padding: 10px 5px;
+}
+
+.border{
+    border:1px solid #222;
+} 
+ h1  {
+    border-width: 3px;    /* 선-두께 */
+    border-style: dashed; /* 선-종류 */
+    margin: 15px;   
+}
+.text2{
+    color:green;
+}
+
+
