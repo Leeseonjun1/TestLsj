@@ -19,12 +19,18 @@ public class Ex01_Decimal {
            
 		 //float를 사용하여 변수선언 ,할당,초기화
 		 //double 을이용하여 변수선언
+		 
+		 float c;
+		 c=3.3F;
+		 
 		 float a =23.5F;
 		 double b = 6.1;
 		 
 		 System.out.println(a);
 		 System.out.println(b);
-		
+		 System.out.println(c);
+		 // 뒤에 구분자가 붙는 long , float 
+		 
 		
 		
 		
